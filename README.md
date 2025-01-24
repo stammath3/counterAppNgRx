@@ -43,21 +43,6 @@ This project is a simple counter application built using Angular and NgRx. It se
 
     The app will be available at http://localhost:4200.
 
--Folder Structure
-
-Here’s an overview of the project’s NgRx related folder structure:
-
-src/
-├── app/
-│   ├── counter/
-│   │   ├── counter.actions.ts
-│   │   ├── counter.reducer.ts
-│   │   ├── counter.selectors.ts
-│   │   ├── counter.state.ts
-│   │   ├── counter.effects.ts
-│   ├──
-│   ├──
-
 -Key NgRx Files:
 
     counter.actions.ts: Defines the actions for the counter (increment, decrement).
